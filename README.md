@@ -2,7 +2,7 @@
 this is a para
 ## Heading 2
 this is another para
-### Heading 3
+### Heading
 this is a para with a bullet list
 * bullet 1
 * bullet 2
